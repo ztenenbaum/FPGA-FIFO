@@ -9,7 +9,7 @@ Overflow and underflow protection
 Simple testbench with Verilator or Icarus Verilog
 
 ## Directory Structure
-src/ — Verilog source files
-test/ — Testbenches
-sim/ — Simulation scripts and waveforms
-docs/ — Design diagrams and notes
+src — Verilog source files
+test — Testbenches
+sim — Simulation scripts and waveforms
+docs — Design diagrams and notes
