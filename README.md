@@ -10,6 +10,8 @@ Includes simulation testbenches and waveform verification.
 
 ## Directory Structure
 * src — Verilog source files
-* test — Testbenches  
-* sim — Simulation scripts and waveforms  
-* docs — Design diagrams and notes 
+* sim — Testbench for simulation and waveform creation  
+
+## To run the testbench using Icarus Verilog:
+* cd sim
+* ./run.sh
